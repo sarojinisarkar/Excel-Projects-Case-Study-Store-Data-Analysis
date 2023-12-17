@@ -1,4 +1,5 @@
-Top 5 best selling states:
+Top 5 best selling states and top 3 cities under top 5 states:
+
 
 
 
@@ -11,3 +12,57 @@ Top 5 best selling states:
 
 
 ![image](https://github.com/sarojinisarkar/Excel-Projects-Case-Study-Store-Data-Analysis/assets/151612374/6977eb44-dbbe-4b83-9eb8-429feb31be03)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/sarojinisarkar/Excel-Projects-Case-Study-Store-Data-Analysis/assets/151612374/3cce834a-fee2-448c-9f0a-fbad125142cb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/sarojinisarkar/Excel-Projects-Case-Study-Store-Data-Analysis/assets/151612374/e0297085-65d5-4007-a398-0b60d009c814)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
