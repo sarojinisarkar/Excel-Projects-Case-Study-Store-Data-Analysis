@@ -9,5 +9,9 @@ The Store owner wants to create an annual sales report for 2022. So that, the ow
 
 ![image](https://github.com/sarojinisarkar/Excel-Projects-Case-Study-Store-Data-Analysis/assets/151612374/0d998d36-54c9-44f1-a880-153f58558447)
 
+Store_Data_source.xlsx
+
+
+
 
 
