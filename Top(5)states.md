@@ -1,4 +1,4 @@
-Top 5 best selling states and top 3 cities under top 5 states:
+Top 5 best selling states and top 3 cities under top 5 states: To get top 5 best selling staes and cities used staes name as row labels and Amount in values then created horizontal bar graph.
 
 
 
