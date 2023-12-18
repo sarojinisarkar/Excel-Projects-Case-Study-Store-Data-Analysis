@@ -1,4 +1,4 @@
-Here, to analyse sales based on gender used "Gender" in row labels and sales amaount as value and created pivot table, then created pie chart for visualisation.
+Here, to analyse sales based on Gender, used "Gender" in row labels and sales amaount as value and created pivot table, then created pie chart for visualisation.
  
  
  
