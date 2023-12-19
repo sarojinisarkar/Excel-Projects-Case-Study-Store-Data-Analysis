@@ -1,5 +1,5 @@
 Top 5 contributing channel for Sales:
-
+For contributing channel used channel in row label and order id, converted the data into percentage and then used pie chart for visualization.
 
 
 
