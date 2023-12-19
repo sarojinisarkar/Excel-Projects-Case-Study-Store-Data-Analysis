@@ -1,4 +1,4 @@
-Sales by "Dress Category":
+Sales by "Dress Category": To get desired result, used category in row label and Qty in value then used horizontal bar graph for visualization.
 
 
 
